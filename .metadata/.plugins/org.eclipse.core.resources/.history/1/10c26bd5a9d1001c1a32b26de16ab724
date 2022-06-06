@@ -1,0 +1,13 @@
+
+public class TestaConversao {
+
+	public static void main(String[] args) {
+		
+		double salario = 1250.70;
+		int valor = (int) salario; // casting
+		int x = 2000000000;
+		long numeroGrande = 1237928713982l; // o l é necessário para indicar que queremos um long
+		
+		System.out.println(valor);
+	}
+}

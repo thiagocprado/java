@@ -1,0 +1,11 @@
+
+public class TestaCaracteres {
+
+	public static void main(String[] args) {
+		char letra = 'a';
+		char valor = 66; // unicode
+		
+		System.out.println(letra);
+		System.out.println(valor);
+	}
+}

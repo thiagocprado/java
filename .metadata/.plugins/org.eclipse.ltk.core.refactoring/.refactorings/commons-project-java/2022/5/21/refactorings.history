@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;mapper.BaseController.java&apos; to &apos;BaseMapper.java&apos;&#x0D;&#x0A;- Original project: &apos;commons-project-java&apos;&#x0D;&#x0A;- Original element: &apos;mapper.BaseController.java&apos;&#x0D;&#x0A;- Renamed element: &apos;mapper.BaseMapper.java&apos;" description="Rename compilation unit &apos;BaseController.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;mapper{BaseController.java" name="BaseMapper.java" references="false" stamp="1652891921288" version="1.0"/>
+</session>

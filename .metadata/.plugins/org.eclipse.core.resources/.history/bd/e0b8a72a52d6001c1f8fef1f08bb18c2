@@ -1,0 +1,13 @@
+package bytebank;
+
+class Conta {
+	double saldo; // atributo
+	int agencia;
+	int numero;
+	String titutal;
+}
+
+
+// o que iremos produzir a partir da classe conta é chamado de objeto ou instância
+// instânciar é um sinônimo para construção, imaginemos que iremos criar uma casa a partir de uma planta
+// podemos dizer que vamos instâciar uma casa
